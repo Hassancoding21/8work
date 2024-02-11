@@ -1,0 +1,25 @@
+
+
+
+img{ 
+    width: 300px;
+}
+
+*{
+    background-color: darkgrey;
+    margin: 0px;
+    padding: 0px;
+}
+.one{
+    border: 2px solid black;
+        background-color: brown;
+}
+
+.two{
+    border: 2px solid black;
+    background-color: brown;
+}
+.three{
+    border: 2px solid black;
+    background-color: brown;
+}
